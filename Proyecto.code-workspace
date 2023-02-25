@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Proyecto"
+		},
+		{
+			"path": "../../../../../../CLICK AL FUTURO"
+		},
+		{
+			"path": "../TAREA Clase 0 y 1"
+		},
+		{
+			"path": "../TAREA Clase 2 y 3"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../IT JAVASCRIPT/Clase 1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Proyecto"
+	}
+}
